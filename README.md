@@ -1,7 +1,3 @@
-Claro, aquí tienes un **README sobrio y elegante** para tu proyecto **Crab**, resaltando su propósito, funcionalidades y aspectos técnicos:
-
----
-
 # 🦀 Crab
 
 **Crab** es una aplicación móvil diseñada para trabajadoras del rubro marino, que permite registrar de forma sencilla y ordenada el peso del cangrejo procesado durante su jornada laboral. Su objetivo principal es eliminar el uso de hojas o apuntes en papel, ofreciendo una alternativa digital práctica y accesible.
