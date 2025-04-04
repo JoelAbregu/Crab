@@ -1,16 +1,42 @@
-# crab
+Claro, aquí tienes un **README sobrio y elegante** para tu proyecto **Crab**, resaltando su propósito, funcionalidades y aspectos técnicos:
 
-A new Flutter project.
+---
 
-## Getting Started
+# 🦀 Crab
 
-This project is a starting point for a Flutter application.
+**Crab** es una aplicación móvil diseñada para trabajadoras del rubro marino, que permite registrar de forma sencilla y ordenada el peso del cangrejo procesado durante su jornada laboral. Su objetivo principal es eliminar el uso de hojas o apuntes en papel, ofreciendo una alternativa digital práctica y accesible.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Registro diario del peso procesado por cada trabajadora.
+- Almacenamiento local de los datos en una base de datos interna de la app.
+- Interfaz simple y adaptada para un uso ágil en el entorno laboral.
+- Optimizada para funcionar sin conexión a internet.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologías utilizadas
+
+- **Framework**: Flutter (o especificar el framework si es diferente).
+- **Lenguaje**: Dart (u otro que corresponda).
+- **Base de datos local**: SQLite / Hive / (la que usaste).
+- **Plataforma**: Android (puede agregarse iOS si está pensado para ambos).
+
+## 🚀 Objetivo del proyecto
+
+Crab busca mejorar la productividad y organización de las trabajadoras, evitando pérdidas de información y facilitando el control de su producción diaria sin depender de apuntes físicos.
+
+## 📂 Instalación
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/tuusuario/crab.git
+```
+
+2. Abre el proyecto en tu entorno de desarrollo.
+3. Instala las dependencias necesarias.
+4. Ejecuta la app en un emulador o dispositivo físico.
+
+## 🤝 Contribuciones
+
+Si deseas colaborar con el desarrollo o proponer mejoras, siéntete libre de hacer un fork o abrir un issue.
+ 
